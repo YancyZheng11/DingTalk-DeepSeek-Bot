@@ -1,0 +1,9 @@
+{
+    "webhook": "https://oapi.dingtalk.com/robot/send?access_token=your_dingtalk_token_here",
+    "deepseek_key": "your_deepseek_api_key_here",
+    "juhe_weather_key": "your_juhe_weather_api_key_here",
+    "juhe_news_key": "your_juhe_news_api_key_here",
+    "client_id": "your_dingtalk_client_id_here",
+    "client_secret": "your_dingtalk_client_secret_here",
+    "ali_key": "your_aliyun_api_key_here"
+}

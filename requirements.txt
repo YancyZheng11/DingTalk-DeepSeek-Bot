@@ -1,0 +1,4 @@
+dashscope
+openai
+requests
+dingtalk-stream
